@@ -1,4 +1,5 @@
 ## Training Data
+![bitrate_random_walk](https://user-images.githubusercontent.com/37823466/105622374-16eba700-5e4c-11eb-956c-6512bd3ff400.png)
 ### The training data file contrains 4 matrices：
 ./data/data118_traintest.mat: There are 4 variables inside our .mat file, i.e., training_x, training_y, testing_x, testing_y.   
         training_x:110000×180  
