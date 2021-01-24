@@ -1,7 +1,7 @@
 # SACCT
 
 ## Introduction
-This is the code and data gerenation for our paper submitted to xxx "xxx".
+This is the implementations related to our paper "xxx", submitted to xxx.
 
 
 
