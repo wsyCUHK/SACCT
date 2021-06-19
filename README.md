@@ -3,6 +3,12 @@
 ## Introduction
 This is the implementations related to our paper "Deep Reinforcement Learning with Communication Transformer for Adaptive Live Streaming in Wireless Edge Networks", submitted to IEEE JSAC.
 
+## Requirements and Installation
+We recommended the following dependencies.
+
+* Python 3.6
+* Torch 1.8.1
+* CUDA 11.1
 
 
 ## About Authors
