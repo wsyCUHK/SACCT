@@ -7,6 +7,7 @@ Twitch Starter
 for the new streamers, the default encoder of Twitch provides fixed bitrate encoding and deliver the streaming to the followers without transcod- ing. In our experiment, the streamer uploads R2 segments without any transcoding at the edge server.
 
 SAC with decomposition (SAC-w)
+
 the provider uses Soft Actor-Critic framework to estimate the state function and find the inter-frame policy that maximizes the defined reward. Similar to SACCT, the intra-frame actions in SAC-w are determined by the proposed convex optimizer. 
 
 SAC without decomposition (SAC-wo)
