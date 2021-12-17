@@ -18,7 +18,7 @@ Shuoyao Wang, sywang[AT]szu[DOT]edu[DOT]cn :Shuoyao Wang received the B.Eng. deg
 
 This is a co-work with Suzhi Bi and Yingjun Angela Zhang.
 
-### Citation Format
+## Citation Format
 If the implementation helps, you might citate the work with the following foramt:
 
 @ARTICLE{9605672,  author={Wang, Shuoyao and Bi, Suzhi and Zhang, Ying-Jun Angela},  journal={IEEE Journal on Selected Areas in Communications},   title={Deep Reinforcement Learning with Communication Transformer for Adaptive Live Streaming in Wireless Edge Networks},   year={2021},  volume={},  number={},  pages={1-1},  doi={10.1109/JSAC.2021.3126062}}
