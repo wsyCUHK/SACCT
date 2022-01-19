@@ -5,6 +5,8 @@ This is the implementations related to our paper
 
 S. Wang, S. Bi and Y. -J. A. Zhang, "Deep Reinforcement Learning With Communication Transformer for Adaptive Live Streaming in Wireless Edge Networks," in IEEE Journal on Selected Areas in Communications, vol. 40, no. 1, pp. 308-322, Jan. 2022, doi: 10.1109/JSAC.2021.3126062.
 
+Our paper is highlighed in the recent IEEE Comsoc Asia Pacific Region Newsletter https://apb.regions.comsoc.org/files/2021/12/AP-Newsletter-No-60-Dec-2021_final_ver.pdf.
+
 ## Requirements and Installation
 We recommended the following dependencies.
 
