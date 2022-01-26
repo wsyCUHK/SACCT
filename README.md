@@ -11,8 +11,11 @@ Our paper is highlighed in the recent <a href="https://www.comsoc.org/publicatio
 There are some typos in the notation table of the published paper in Page 3. If there is any conflicts, please refer the notations to the followings:
 
 $\mathcal{I}_t$: The set of followers at the beginning of time t 
+
 $\mathcal{I}_t^a$: The set of followers that arrive at the network at time t 
+
 $\mathcal{I}_t^d$: The set of followers that departure from the network at time t
+
 $\mathcal{J}_t$: The set of bitrates that provided to the followers at time t
 
 ## Requirements and Installation
