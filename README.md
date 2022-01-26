@@ -7,15 +7,12 @@ S. Wang, S. Bi and Y. -J. A. Zhang, "Deep Reinforcement Learning With Communicat
 
 Our paper is highlighed in the recent <a href="https://www.comsoc.org/publications/blogs/selected-ideas-communications/introduction-blog-selected-ideas-communications">JSAC blog</a> and <a href="https://apb.regions.comsoc.org/files/2021/12/AP-Newsletter-No-60-Dec-2021_final_ver.pdf">IEEE Comsoc Asia Pacific Region Newsletter</a>.
 
-##Notation Remark
+## Notation Remark
 There are some typos in the notation table of the published paper in Page 3. If there is any conflicts, please refer the notations to the followings:
 
 $\mathcal{I}_t$: The set of followers at the beginning of time t 
-
 $\mathcal{I}_t^a$: The set of followers that arrive at the network at time t 
-
 $\mathcal{I}_t^d$: The set of followers that departure from the network at time t
-
 $\mathcal{J}_t$: The set of bitrates that provided to the followers at time t
 
 ## Requirements and Installation
