@@ -7,6 +7,7 @@ S. Wang, S. Bi and Y. -J. A. Zhang, "Deep Reinforcement Learning With Communicat
 
 Our paper is highlighed in the recent <a href="https://www.comsoc.org/publications/blogs/selected-ideas-communications/introduction-blog-selected-ideas-communications">JSAC blog</a> and <a href="https://apb.regions.comsoc.org/files/2021/12/AP-Newsletter-No-60-Dec-2021_final_ver.pdf">IEEE Comsoc Asia Pacific Region Newsletter</a>.
 
+The Deep Reinforcement Learning with Communication Transformer model is  upgraded in our recent work. You may further refer to <a href="https://github.com/wsyCUHK/DBAG">Edge Video Analytics with Adaptive Information Gathering: A Deep Reinforcement Learning Approach</a> in TWC.
 ## Notation Remark
 There are some typos in the notation table of the published paper in Page 3. If there is any conflicts, please refer the notations to the followings:
 
